@@ -1,7 +1,7 @@
 // script.js
 // URL ของ Google Apps Script Web App ของคุณ
 // **สำคัญมาก: คุณจะต้องเปลี่ยนค่านี้เป็น URL ที่ได้จากการ Deploy Google Apps Script ในขั้นตอนถัดไป**
-const GOOGLE_APPS_SCRIPT_URL = 'YOUR_GOOGLE_APPS_SCRIPT_WEB_APP_URL_HERE';
+const GOOGLE_APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwbZJ2lfNEA4u7QE5BtPJgm2BobSYBuCU34QKQTJBZ1-2vNXWu4UFv1AZ1dzNMaQC1E/exec';
 
 // Elements ในหน้าเว็บ
 const scanButton = document.getElementById('scanButton');
